@@ -15,10 +15,10 @@
 ## ⚔️ ᴀʙᴏᴜᴛ ᴍᴇ : <br>
 
 ✔️ 👋 ʜɪ, ɪ’ᴍ @sanjib9090 .<br>
-✔️ 👀 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ᴄᴏᴅɪɴɢ & ʟɪᴛᴛʟᴇ ʙɪᴛ ɪɴ ʜᴀᴄᴋɪɴɢ ꜱᴛᴜꜰꜰꜱ.<br>
-✔️ ☎ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ :- <br>
+✔️ 👀 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ᴄʟᴏᴜᴅ , ᴡᴇʙ ᴅᴇᴠʟᴏᴘᴍᴇɴᴛ & ʟɪᴛᴛʟᴇ ʙɪᴛ ɪɴ ʜᴀᴄᴋɪɴɢ ꜱᴛᴜꜰꜰꜱ.<br>
+✔️ ☎ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ :-@sanjib9090 <br>
 ✔️ 🤹‍♂️ ꜰᴏʀ ᴜᴘᴅᴀᴛᴇ ᴊᴏɪɴ ᴛɢ :- [Join Now](https://telegram.me/sanjiblive) <br>
-✔️ 📧 ᴇ-ᴍᴀɪʟ ᴀᴛ :- [mitthu786](mailto:sanjibbarad6@gmail.com) <br>
+✔️ 📧 ᴇ-ᴍᴀɪʟ ᴀᴛ :- [sanjib9090](mailto:sanjibbarad6@gmail.com) <br>
 
 ## ⚓ ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ :
 
@@ -46,5 +46,5 @@
 </p>
 
 <a href="https://github.com/sanjib9090">
-<img alt="Mitthu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjib9090&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+<img alt="Sanjib's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjib9090&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
 </a>
