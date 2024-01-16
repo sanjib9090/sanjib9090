@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://github.com/sanjib9090">
-    <img src="https://streak-stats.demolab.com?user=sanjib9090&theme=gruvbox_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000">
+    <img src="https://streak-stats.demolab.com?user=sanjib9090&theme=gruvbox&hide_border=true&date_format=j%2Fn%5B%2FY%5D">
   </a>
 </p>
 
