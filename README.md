@@ -40,8 +40,8 @@
 ## 🎓 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ :
 
 <p align="center">
-  <a href="https://github.com/mitthu786">
-    <img src="https://streak-stats.demolab.com?user=Sanjib9090&theme=gruvbox_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000">
+  <a href="https://github.com/Sanjib9090">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjib9090&theme=radical&border=7F3FBF&background=0D1117">
   </a>
 </p>
 
