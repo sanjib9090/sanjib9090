@@ -47,8 +47,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjib9090&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  <a href="https://github.com/sanjib9090">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjib9090&theme=radical" alt="Sanjib's GitHub Contribution"/>
   </a>
 </p>
 
