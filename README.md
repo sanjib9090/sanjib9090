@@ -2,7 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=sanjib9090&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-<p align="center"><a href="https://tsneh.vercel.app/ts-tg"><img src="https://thumbs.gfycat.com/AccomplishedSoggyBlackbird-max-1mb.gif" alt="Hello" /></a></p>
+<p align="center"><a href="https://telegram.me/sanjiblive"><img src="https://thumbs.gfycat.com/AccomplishedSoggyBlackbird-max-1mb.gif" alt="Hello" /></a></p>
 <h4 align="center">ᴀʟᴡᴀʏꜱ ᴘʟᴀʏꜱ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇꜱ🐍 <br> ɪ ʟɪᴋᴇ ᴛᴏ ᴡᴏʀᴋ ᴘʀɪᴠᴀᴛᴇʟʏ 🔏 <br> 🤹‍♂️ ꜰᴏʀ ᴜᴘᴅᴀᴛᴇ ᴊᴏɪɴ ᴛɢ :- <br></h4>
 
 <p align='center'> 
